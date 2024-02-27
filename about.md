@@ -20,11 +20,11 @@ permalink: /about/
 
 [<font face="futura">myFlightradar24</font>](https://my.flightradar24.com/Tsuki)
 
-<p><font face="futura">places I am visiting in 2023: PRC (Beijing, Xi'an and Shanghai), Japan (Hokkaido, Tohoku, Tokyo, Osaka, Hiroshima and Kyushu), Malaysia (Johor, Sabah and Sarawak), Vietnam (HCMC and Nha Trang)</font></p>
+<p><font face="futura">places I have visited in 2024: Japan (Fukuoka), Malaysia (Kuala Lumpur), PRC (Shanghai, Beijing, Sichuan and Tianjin)</font></p>
 
-<p><font face="futura">places I am visiting in 2024: PRC (Beijing, Shandong and Shanghai), Japan (Fukuoka)</font></p>
+<p><font face="futura">places I am visiting in 2024: Malaysia (Kuala Lumpur), PRC (Beijing, Shandong and Shanghai)</font></p>
 
-<p><font face="futura">places I wish to visit in the near future: PRC, Japan, United Kingdom, Egypt, and a lot more</font></p>
+<p><font face="futura">places I wish to visit in the near future: PRC, Malaysia, Japan, United States, and a lot more</font></p>
 
 # <font face="futura">BACKPACK</font>
 
@@ -34,7 +34,7 @@ permalink: /about/
 
 <p><font face="futura"><strike><font color="DCDCDC">Canon EOS 7D</font></strike> · <strike><font color="DCDCDC">Canon EOS 5D Mark III</font></strike> · <strike><font color="DCDCDC">Canon EF 17–40mm f/4L USM</font></strike> · <strike><font color="DCDCDC">Canon EF 24–105mm f/4L IS USM</font></strike> · <strike><font color="DCDCDC">Canon EF 70–200mm f/4L IS USM</font></strike> · <strike><font color="DCDCDC">Canon EF 70–200mm f/4L IS II USM</font></strike> · <strike><font color="DCDCDC">Canon EF 50mm f/1.8L II</font></strike> · <strike><font color="DCDCDC">Canon EF 135mm f/2L USM</font></strike></font></p>
 
-<p><font face="futura"><strike>Sony Cyber-shot DSC-T7</strike> · <strike><font color="DCDCDC">Sony Cyber-shot DSC-RX100 VII</font></strike> · Sony α7 IV · Tamron 17-28mm F/2.8 Di III RXD · <strike><font color="DCDCDC">Tamron 28-75mm F/2.8 Di III RXD</font></strike> · Tamron 70-180mm F/2.8 Di III VXD · Sigma 35mm F1.4 DG DN | Art</font></p>
+<p><font face="futura"><strike>Sony Cyber-shot DSC-T7</strike> · <strike><font color="DCDCDC">Sony Cyber-shot DSC-RX100 VII</font></strike> · Sony α7 IV · Tamron 17-28mm F/2.8 Di III RXD · Tamron 28-200mm F/2.8-5.6 Di III RXD · <strike><font color="DCDCDC">Tamron 28-75mm F/2.8 Di III RXD</font></strike> · <strike><font color="DCDCDC">Tamron 70-180mm F/2.8 Di III VXD</font></strike> · Sigma 35mm F1.4 DG DN | Art</font></p>
 
 <p><font face="futura"><strike>MacBook Pro (Retina, 15-inch, Early 2013)</strike> · MacBook Air (11-inch, Early 2015)</font></p>
 
