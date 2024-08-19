@@ -20,11 +20,13 @@ permalink: /about/
 
 [<font face="futura">myFlightradar24</font>](https://my.flightradar24.com/Tsuki)
 
-<p><font face="futura">places I have visited in 2024: Japan (Fukuoka), Malaysia (Kuala Lumpur), PRC (Shanghai, Beijing, Sichuan and Tianjin)</font></p>
+<p><font face="futura">places I have visited in 2024: Japan (Fukuoka), Malaysia (Kuala Lumpur and Putrajaya), PRC (Shanghai, Beijing, Sichuan, Tianjin and Shandong)</font></p>
 
-<p><font face="futura">places I am visiting in 2024: Malaysia (Kuala Lumpur), PRC (Beijing, Shandong and Shanghai)</font></p>
+<p><font face="futura">places I am visiting in 2024: Japan (Nagasaki, Kumamoto and Saga), PRC (Nanjing)</font></p>
 
-<p><font face="futura">places I wish to visit in the near future: PRC, Malaysia, Japan, United States, and a lot more</font></p>
+<p><font face="futura">places I am visiting in 2025: PRC (Beijing), USA (NJ and NY)</font></p>
+
+<p><font face="futura">places I wish to visit in the near future: PRC, Malaysia, Indonesia, Viet Nam, Japan, Egypt, South Africa, and a lot more</font></p>
 
 # <font face="futura">BACKPACK</font>
 
