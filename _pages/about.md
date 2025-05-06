@@ -19,9 +19,9 @@ redirect_from:
 
 [<font face="futura">myFlightradar24</font>](https://my.flightradar24.com/Tsuki)
 
-<p><font face="futura">places I have visited in 2025: USA (DC, NY, MA and NJ)</font></p>
+<p><font face="futura">places I have visited in 2025: Malaysia (JHR, SGR), USA (DC, NY, MA, NJ), PRC (Shanghai, Jiangsu, Beijing)</font></p>
 
-<p><font face="futura">places I am visiting in 2025: PRC (Beijing)</font></p>
+<p><font face="futura">places I am visiting in 2025: Japan (Osaka, Kyoto, Shiga), PRC (Beijing, Shenyang)</font></p>
 
 <p><font face="futura">places I wish to visit in the near future: PRC, Malaysia, Indonesia, Viet Nam, Japan, Egypt, South Africa, and a lot more</font></p>
 
